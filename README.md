@@ -6,9 +6,9 @@ Elaborado por: Rodolfo Mora-Zamora.
 ## Descripción del juego
 
 - **Género:** Top-Down Action Adventure
-- **Engine: ** Unity 3D 2022.3.27f1
-- **Disponible en: **https://ceibasoft.itch.io/astrotime?secret=jOqUSn0RZGRG0mXkjXX0UvlczqA
-- **Código disponible en: ** https://github.com/Rjmoraza/astrotime
+- **Engine:** Unity 3D 2022.3.27f1
+- **Disponible en:** https://ceibasoft.itch.io/astrotime?secret=jOqUSn0RZGRG0mXkjXX0UvlczqA
+- **Código disponible en:** https://github.com/Rjmoraza/astrotime
 
 ## Sistema de Eventos
 
